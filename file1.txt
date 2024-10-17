@@ -1,0 +1,2 @@
+contingut fitxer 1 >file1.txt
+echo contingut fitxer 1
